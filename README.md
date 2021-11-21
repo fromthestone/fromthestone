@@ -1,4 +1,6 @@
-### Hi there 👋
+### Dig into opens opensource for a while ago. 
+
+### Experimenting, adapting, and contributing to projects hosted here
 
 <!--
 **fromthestone/fromthestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
